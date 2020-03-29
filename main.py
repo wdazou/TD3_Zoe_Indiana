@@ -1,6 +1,10 @@
+
+#!/usr/bin/env python
 #!/usr/bin/env python
 import sys
-
+"""
+from mulTwolnt import mull
+"""
 
 def mull(x,y):
         return x*y
@@ -29,4 +33,6 @@ if __name__ =="__main__" :
                         x=int(input())
                         y=int(input())
                         print("le resultat est : ", mull(x,y))
+
+  
 
